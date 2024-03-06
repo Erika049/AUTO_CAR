@@ -1,0 +1,36 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+	background-color: #dddddd;
+}
+
+/* Empattement pour les balises paragraphes */
+p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Mise en évidence du texte */
+.highlight-text {
+    font-weight: bold;
+    border: 1px solid black;
+    background-color: #dddddd;
+    padding: 25px;
+}
+
+/* Marge pour le footer */
+footer {
+    margin-top: 25px;
+}
+
+/* Style des liens */
+a {
+    text-decoration: none; /* Retirer le soulignement */
+}
+
+/* Style des liens au survol de la souris */
+a:hover {
+    background-color: #f0f0f98; /* Ajouter une couleur de fond */
+}
